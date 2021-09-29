@@ -14,7 +14,7 @@
 			}
 			/* fullscreen */
 			html {
-				height:50%;
+				height:100%;
 			}
 			body {
 				height:100%;
